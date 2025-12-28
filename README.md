@@ -1,8 +1,5 @@
 # IPL-2025-Batters-Performance-Analysis
 
-
-# IPL 2025 Batters Data Analysis
-
 This repository contains a comprehensive end-to-end data analysis of the IPL 2025 Batters dataset. The goal is to demonstrate the complete workflow from data loading to advanced analytics and visualization, covering all major topics in data science.
 
 Project Overview
